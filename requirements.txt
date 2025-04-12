@@ -1,21 +1,16 @@
-# Core deep learning frameworks
 tensorflow==2.12.0
 torch==1.13.1
-torchvision==0.14.1  # Useful if you plan to work on image data with PyTorch
+torchvision==0.14.1
 
-# Common data science libraries
 numpy>=1.23.0
 pandas>=1.3.0
 scikit-learn>=1.0.0
 
-# Optional: Libraries for data visualization and plotting
 matplotlib>=3.5.0
 seaborn>=0.12.0
 
-# Additional libraries that might be useful in a datathon environment
-jupyterlab>=3.0.0  # If you are using Jupyter notebooks
+jupyterlab>=3.0.0
 notebook>=6.4.0
 
-# Miscellaneous for improved performance and debugging
 joblib>=1.1.0
 tqdm>=4.64.0
