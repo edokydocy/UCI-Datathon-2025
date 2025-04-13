@@ -3,5 +3,6 @@
 To run the project, first install git lfs.
 Then,
 ```
+git lfs install
 pip install -r requirements.txt
 ```
