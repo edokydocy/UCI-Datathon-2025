@@ -1,6 +1,10 @@
 hf_xet
 accelerate==0.26.0
 
+# sentimental analysis and readability
+textblob
+textstat
+
 # Core data science libraries
 pandas>=1.5.3
 numpy>=1.23.5
